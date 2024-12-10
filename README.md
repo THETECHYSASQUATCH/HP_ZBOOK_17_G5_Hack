@@ -8,7 +8,7 @@ All my work is based off this Guide https://dortania.github.io/OpenCore-Install-
 
 ## Specs of my Machine 
 
-Computer:      HP HP ZBook 17 G5
+Computer:      HP ZBook 17 G5
 
 CPU:           Intel Core i7-8850H (Coffee Lake-H, U0)
                2600 MHz (26.00x100.0) @ 3940 MHz (40.00x98.5)
