@@ -30,6 +30,7 @@ Graphics:      Intel UHD Graphics 630 (Coffee Lake-H GT2) [Hewlett-Packard]
 
 Graphics:      NVIDIA Quadro P4200 [HP]
                NVIDIA Quadro P4200, 8192 MB GDDR5 SDRAM
+               - Not Compatible with any macOS Version passed 10.13.6(High Sierra)
 
 Drive:         WDC  WDS100T2B0A-00SM50, 976.8 GB, Serial ATA 6Gb/s @ 6Gb/s
 
@@ -42,6 +43,7 @@ Network:       Intel Wireless-AC 9560 160MHz
 Network:       Intel Ethernet Connection I219-LM
 
 Network:       HP XMM 7360 LTE-A 
+              - Not Possible to get working under macOS or Mac OS X
 
 ## Contributing
 
@@ -49,6 +51,8 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+Any Help on the EFI Folder is very much appreciated.
 
 ## License
 
