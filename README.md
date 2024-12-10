@@ -45,6 +45,10 @@ Network:       Intel Ethernet Connection I219-LM
 Network:       HP XMM 7360 LTE-A 
               - Not Possible to get working under macOS or Mac OS X
 
+![Screenshot 2024-12-07 165142](https://github.com/user-attachments/assets/83ddf42f-2950-4187-b3c2-395869a228b7)
+
+![Screenshot 2024-12-07 164552](https://github.com/user-attachments/assets/cab7a129-f3f6-4b9b-938b-5937afdd7748)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
